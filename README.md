@@ -1,5 +1,7 @@
 <h1 align="left" id="wdikiz-title">:wave: Hello there! I'm Walid Zoubir and this is my new account</h1>
+
 ## I am a versatilist and easily adapt to different hats (Full-Stack Software developer 🌐, App Developer 📱, ML Engineer 🤖🎨.....) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs** 🛠️. 
+
 <br/>
 <br/>
 

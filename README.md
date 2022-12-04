@@ -20,7 +20,7 @@
 ### 👯 Communities
 * Lead Google Developper Student Club .
 * Microsoft Student Learn Ambassador (MSP/MLSA).
-* Co-Founder E-Translator.
+* Co-Founder of E-Translator App
 * Member at Arab Team 4 Reverse Engineering.
 
 <br>

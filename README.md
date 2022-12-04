@@ -15,7 +15,6 @@
 - 📚 &nbsp; When I am free, I do 3D printing .
 <br>
 
-
 ### 🔨 Languages and Tools:
 <a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/wdikiz/README_icons/main/language_and_tools/square/android/android.svg"> </a>
 <a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/wdikiz/README_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
@@ -62,6 +61,6 @@
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/wdikiz/Pigeon" target="_blank"> <img alt="Pigeon" src="./projects/Pigeon-ai.svg" height="68" align="left"> </a>
-<a href="https://github.com/wdikiz/Pigeon" target="_blank"> <img alt="Pigeon2" src="./projects/pigeonlogo2-ai.svg" height="68" align="left"> </a>
+<a href="https://github.com/wdikiz/Pigeon" target="_blank"> <img alt="Pigeon" src="./projects/Pigeon-ai.svg" height="210" align="left"> </a>
+<a href="https://github.com/wdikiz/Pigeon" target="_blank"> <img alt="Pigeon2" src="./projects/pigeonlogo2-ai.svg" height="210" align="left"> </a>
 

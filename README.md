@@ -1,9 +1,8 @@
 <h1 align="left" id="wdikiz-title">:wave: Hello there! I'm Walid Zoubir and this is my new account</h1>
 
-## I am a versatilist and easily adapt to different hats (Full-Stack Software developer 🌐, App Developer 📱, ML Engineer 🤖🎨.....) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs** 🛠️. 
+[![Linkedin Badge](https://img.shields.io/badge/-Walid%20Zoubir%20-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/walid-zoubir-a46b81198/](https://linkedin.com/in/walid-zoubir-a46b81198))]([https://www.linkedin.com/in/walid-zoubir-a46b81198/](https://linkedin.com/in/walid-zoubir-a46b81198))
 
-<br/>
-<br/>
+**I am a versatilist and easily adapt to different hats (Full-Stack Software developer 🌐, App Developer 📱, ML Engineer 🤖🎨.....) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs** 🛠️. 
 
 <img align="right" alt="Ai" src="./assets/2231907073-ai.svg" width="360px"/>
   
@@ -15,6 +14,15 @@
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://linkedin.com/in/walid-zoubir-a46b81198)
 - 📚 &nbsp; When I am free, I do 3D printing .
+
+<br>
+
+### 👯 Communities
+* Lead Google Developper Student Club .
+* Microsoft Student Learn Ambassador (MSP/MLSA).
+* Co-Founder E-Translator.
+* Member at Arab Team 4 Reverse Engineering.
+
 <br>
 
 ### 🔨 Languages and Tools:

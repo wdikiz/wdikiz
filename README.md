@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="Ai" src="./assets/2231907073-ai.svg2231907073-ai.svg" width="360px"/>
+<img align="right" alt="Ai" src="./assets/2231907073-ai.svg" width="360px"/>
   
 ### 🧐 More About Me:
 

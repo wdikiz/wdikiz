@@ -71,6 +71,6 @@
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/wdikiz/Pigeon" target="_blank"> <img alt="Pigeon" src="./projects/Pigeon-ai.svg" height="210" align="left"> </a>
+<a href="https://github.com/wdikiz/Pigeon" target="_blank"> <img alt="Pigeon" src="./projects/Logo_blanc.svg" height="210" align="left"> </a>
 <a href="https://github.com/wdikiz/Pigeon" target="_blank"> <img alt="Pigeon2" src="./projects/pigeonlogo2-ai.svg" height="210" align="left"> </a>
 

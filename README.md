@@ -18,9 +18,9 @@
 <br>
 
 ### 👯 Communities
-* Lead Google Developper Student Club .
+* ex Lead Google Developper Student Club .
 * Co-Founder of E-Translator App
-* Member at Arab Team 4 Reverse Engineering.
+* ex Member at Arab Team 4 Reverse Engineering.
 
 <br>
 

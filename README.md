@@ -8,8 +8,8 @@
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Pigeon - Email Service**
-- 💻 &nbsp; With 4 years' computer science and technology education and 8 years' development working experience; 
+- 🔭 &nbsp; I’m currently working on **Tferej Flix streaming App**
+- 💻 &nbsp; With 2 Masters in software engineering and information systems management and 8 years' experience in development ;
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wdikiz?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://linkedin.com/in/walid-zoubir-a46b81198)
